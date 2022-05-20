@@ -9,22 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="first commit ajuste">
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/helloworld.jsp" afterDir="false" />
+    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="finalizando: &quot;Section 12: Spring MVC - Creating Controllers and Views&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/SillyController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/main-menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/com/luv2code/springdemo/mvc/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/com/luv2code/springdemo/mvc/HelloWorldController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -184,7 +176,7 @@
       <updated>1652921365092</updated>
       <workItem from="1652921366992" duration="91000" />
       <workItem from="1652921831318" duration="2520000" />
-      <workItem from="1653082164415" duration="3741000" />
+      <workItem from="1653082164415" duration="5656000" />
     </task>
     <task id="LOCAL-00001" summary="first commit ajuste">
       <created>1653082891491</created>
@@ -193,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653082891491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finalizando: &quot;Section 12: Spring MVC - Creating Controllers and Views&quot;">
+      <created>1653087265096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653087265096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +211,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit ajuste" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit ajuste" />
+    <MESSAGE value="finalizando: &quot;Section 12: Spring MVC - Creating Controllers and Views&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizando: &quot;Section 12: Spring MVC - Creating Controllers and Views&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
