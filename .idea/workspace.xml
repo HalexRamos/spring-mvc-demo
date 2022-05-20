@@ -9,150 +9,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_demo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring.xml" afterDir="false" />
+    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="first commit ajuste">
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/helloworld.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/META-INF/spring.components" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-aop-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-aop-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-aop-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-aspects-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-aspects-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-aspects-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-beans-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-beans-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-indexer-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-indexer-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-indexer-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-support-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-support-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-context-support-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-core-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-core-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-core-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-expression-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-expression-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-expression-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-instrument-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-instrument-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-instrument-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jcl-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jcl-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jcl-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jms-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jms-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-jms-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-messaging-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-messaging-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-messaging-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-orm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-orm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-orm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-oxm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-oxm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-oxm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-test-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-test-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-test-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-tx-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-tx-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-tx-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-web-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-webflux-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-webflux-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-webflux-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-websocket-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-websocket-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/lib/spring-websocket-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/WebContent/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/classes/com/luv2code/springdemo/mvc/HomeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-aop-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-aop-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-aop-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-aspects-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-aspects-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-aspects-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-beans-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-beans-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-indexer-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-indexer-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-indexer-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-support-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-support-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-context-support-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-core-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-core-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-core-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-expression-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-expression-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-expression-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-instrument-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-instrument-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-instrument-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jcl-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jcl-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jcl-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jms-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jms-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-jms-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-messaging-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-messaging-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-messaging-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-orm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-orm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-orm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-oxm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-oxm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-oxm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-test-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-test-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-test-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-tx-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-tx-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-tx-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-web-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-webflux-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-webflux-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-webflux-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-websocket-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-websocket-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/lib/spring-websocket-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/main-menu.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/main-menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/main-menu.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -199,7 +72,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "spring"
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -311,8 +184,16 @@
       <updated>1652921365092</updated>
       <workItem from="1652921366992" duration="91000" />
       <workItem from="1652921831318" duration="2520000" />
-      <workItem from="1653082164415" duration="615000" />
+      <workItem from="1653082164415" duration="3741000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit ajuste">
+      <created>1653082891491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653082891491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +209,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit ajuste" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit ajuste" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
