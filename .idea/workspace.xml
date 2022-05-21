@@ -9,15 +9,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="finalizando: &quot;Section 13: Spring MVC - Request Params and Request Mappings&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/student-form.jsp" afterDir="false" />
+    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/countries.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/main-menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/com/luv2code/springdemo/mvc/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/com/luv2code/springdemo/mvc/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/com/luv2code/springdemo/mvc/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/com/luv2code/springdemo/mvc/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/student-form.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +77,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF" />
       <recent name="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF" />
     </key>
   </component>
   <component name="RunManager">
@@ -178,7 +185,7 @@
       <updated>1652921365092</updated>
       <workItem from="1652921366992" duration="91000" />
       <workItem from="1652921831318" duration="2520000" />
-      <workItem from="1653082164415" duration="13039000" />
+      <workItem from="1653082164415" duration="14445000" />
     </task>
     <task id="LOCAL-00001" summary="first commit ajuste">
       <created>1653082891491</created>
@@ -201,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653090227106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding&quot;">
+      <created>1653099702534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653099702534</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +236,8 @@
     <MESSAGE value="first commit ajuste" />
     <MESSAGE value="finalizando: &quot;Section 12: Spring MVC - Creating Controllers and Views&quot;" />
     <MESSAGE value="finalizando: &quot;Section 13: Spring MVC - Request Params and Request Mappings&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="finalizando: &quot;Section 13: Spring MVC - Request Params and Request Mappings&quot;" />
+    <MESSAGE value="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

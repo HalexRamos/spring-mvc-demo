@@ -14,7 +14,7 @@
         <br/>
         Country:
         <form:select path="country">
-            <form:options items="${student.countryOptions}" />
+            <form:options items="${theCountryOptions}" />
         </form:select>
         <br/>
         <form:radiobuttons path="favoriteLanguage" items="${student.favoriteLanguageOptions}" />
