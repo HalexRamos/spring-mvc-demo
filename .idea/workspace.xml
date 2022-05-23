@@ -9,23 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding - extra&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib/hibernate-validator-6.2.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib/hibernate-validator-annotation-processor-6.2.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib/hibernate-validator-cdi-6.2.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib/jakarta.el-3.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/customer-form.jsp" afterDir="false" />
+    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="finalizando: &quot;Section 15: Spring MVC Form Validations - Applying Built-In Validation Rules&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/main-menu.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +181,7 @@
       <workItem from="1653082164415" duration="14800000" />
       <workItem from="1653191733061" duration="2690000" />
       <workItem from="1653196118847" duration="1212000" />
-      <workItem from="1653274612083" duration="2091000" />
+      <workItem from="1653274612083" duration="2839000" />
     </task>
     <task id="LOCAL-00001" summary="first commit ajuste">
       <created>1653082891491</created>
@@ -233,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653101073566</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finalizando: &quot;Section 15: Spring MVC Form Validations - Applying Built-In Validation Rules&quot;">
+      <created>1653276849262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653276849262</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +248,8 @@
     <MESSAGE value="finalizando: &quot;Section 13: Spring MVC - Request Params and Request Mappings&quot;" />
     <MESSAGE value="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding&quot;" />
     <MESSAGE value="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding - extra&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding - extra&quot;" />
+    <MESSAGE value="finalizando: &quot;Section 15: Spring MVC Form Validations - Applying Built-In Validation Rules&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizando: &quot;Section 15: Spring MVC Form Validations - Applying Built-In Validation Rules&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
