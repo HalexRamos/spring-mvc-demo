@@ -9,18 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="finalizando: &quot;Section 15: Spring MVC Form Validations - Applying Built-In Validation Rules&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/messages.properties" afterDir="false" />
+    <list default="true" id="cf9cc306-8bcf-49c2-b712-7019bb927fb0" name="Changes" comment="finalizando: &quot;Section 16: Spring MVC Form Validations - Validating Numbers Ranges and Regular Expressions&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/validation/CourseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/validation/CourseCodeConstraintValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/customer-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/WebContent/WEB-INF/view/customer-form.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/com/luv2code/springdemo/mvc/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/classes/com/luv2code/springdemo/mvc/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/customer-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring/WEB-INF/view/customer-form.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/customer-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/view/customer-form.jsp" afterDir="false" />
     </list>
@@ -36,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -79,6 +78,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.luv2code.springdemo.mvc.validation" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF/lib" />
       <recent name="$PROJECT_DIR$/src/main/resources/WebContent/WEB-INF" />
@@ -193,7 +195,7 @@
       <workItem from="1653082164415" duration="14800000" />
       <workItem from="1653191733061" duration="2690000" />
       <workItem from="1653196118847" duration="1212000" />
-      <workItem from="1653274612083" duration="5884000" />
+      <workItem from="1653274612083" duration="8418000" />
     </task>
     <task id="LOCAL-00001" summary="first commit ajuste">
       <created>1653082891491</created>
@@ -244,7 +246,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653277562545</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="finalizando: &quot;Section 16: Spring MVC Form Validations - Validating Numbers Ranges and Regular Expressions&quot;">
+      <created>1653280796835</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653280796835</updated>
+    </task>
+    <task id="LOCAL-00009" summary="finalizando: &quot;Section 16: Spring MVC Form Validations - Validating Numbers Ranges and Regular Expressions&quot;">
+      <created>1653280809984</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653280809984</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +284,8 @@
     <MESSAGE value="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding&quot;" />
     <MESSAGE value="finalizando: &quot;Section 14: Spring MVC - Form Tags and Data Binding - extra&quot;" />
     <MESSAGE value="finalizando: &quot;Section 15: Spring MVC Form Validations - Applying Built-In Validation Rules&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="finalizando: &quot;Section 15: Spring MVC Form Validations - Applying Built-In Validation Rules&quot;" />
+    <MESSAGE value="finalizando: &quot;Section 16: Spring MVC Form Validations - Validating Numbers Ranges and Regular Expressions&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizando: &quot;Section 16: Spring MVC Form Validations - Validating Numbers Ranges and Regular Expressions&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
